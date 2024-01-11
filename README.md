@@ -7,6 +7,7 @@ This repository compiles command block setups and commands designed for Minecraf
 ### Scoreboards
 
 * [Display a scoreboard within a given range.](./src/scoreboards/DISPLAY_WITHIN_RANGE.md)
+* [Target Practice Counter](./src/scoreboards/TARGET_PRACTICE_COUNTER.md)
 
 ## Contributing
 
