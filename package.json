@@ -1,0 +1,11 @@
+{
+  "name": "commandblocks",
+  "description": "This repository compiles command block setups and commands designed for Minecraft Java. The goal is to consolidate scattered command block configurations and commands into a unified platform, eliminating the need to sift through countless threads on the internet and random YouTube videos.",
+  "license": "MIT",
+  "devDependencies": {
+    "markdownlint": "^0.33.0"
+  },
+  "dependencies": {
+    "markdownlint-cli": "^0.38.0"
+  }
+}
