@@ -18,4 +18,4 @@ jobs:
           run: npm install
 
         - name: Lint
-          run: markdownlint src
+          run: npx markdownlint src
